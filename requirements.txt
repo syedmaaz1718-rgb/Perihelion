@@ -1,0 +1,6 @@
+flask>=3.0
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+astropy>=6.0
+gunicorn>=21
