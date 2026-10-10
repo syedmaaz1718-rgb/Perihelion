@@ -1,3 +1,4 @@
+https://perihelion.onrender.com/#/size
 # Perihelion - exoplanet transit hunter
 
 Searches real NASA Kepler light curves for planet transits (Box Least Squares + vetting), derives planet size and orbit, and validates the result against NASA's confirmed-planet catalog. Flask + SQLite backend with real accounts, 12-page single-page app.
